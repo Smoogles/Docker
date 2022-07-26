@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DotNet.Docker
+build_property.ProjectDir = /mnt/c/Code/Learning/Docker/testApp1/App/

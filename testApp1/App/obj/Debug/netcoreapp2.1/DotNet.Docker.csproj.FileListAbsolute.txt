@@ -1,0 +1,13 @@
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Debug/netcoreapp2.1/DotNet.Docker.deps.json
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Debug/netcoreapp2.1/DotNet.Docker.runtimeconfig.json
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Debug/netcoreapp2.1/DotNet.Docker.runtimeconfig.dev.json
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Debug/netcoreapp2.1/DotNet.Docker.dll
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Debug/netcoreapp2.1/DotNet.Docker.pdb
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/netcoreapp2.1/DotNet.Docker.csproj.CoreCompileInputs.cache
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/netcoreapp2.1/DotNet.Docker.AssemblyInfoInputs.cache
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/netcoreapp2.1/DotNet.Docker.AssemblyInfo.cs
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/netcoreapp2.1/DotNet.Docker.dll
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/netcoreapp2.1/DotNet.Docker.pdb
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/netcoreapp2.1/DotNet.Docker.csproj.AssemblyReference.cache
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/netcoreapp2.1/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/netcoreapp2.1/DotNet.Docker.genruntimeconfig.cache

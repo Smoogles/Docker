@@ -1,0 +1,5 @@
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Release/net6.0/publish/DotNet.Docker
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Release/net6.0/publish/DotNet.Docker.dll
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Release/net6.0/publish/DotNet.Docker.deps.json
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Release/net6.0/publish/DotNet.Docker.runtimeconfig.json
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Release/net6.0/publish/DotNet.Docker.pdb

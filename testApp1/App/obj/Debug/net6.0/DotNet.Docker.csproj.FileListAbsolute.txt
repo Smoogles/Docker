@@ -1,0 +1,15 @@
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Debug/net6.0/DotNet.Docker
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Debug/net6.0/DotNet.Docker.deps.json
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Debug/net6.0/DotNet.Docker.runtimeconfig.json
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Debug/net6.0/DotNet.Docker.dll
+/mnt/c/Code/Learning/Docker/testApp1/App/bin/Debug/net6.0/DotNet.Docker.pdb
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/net6.0/DotNet.Docker.csproj.AssemblyReference.cache
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/net6.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/net6.0/DotNet.Docker.AssemblyInfoInputs.cache
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/net6.0/DotNet.Docker.AssemblyInfo.cs
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/net6.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/net6.0/DotNet.Docker.dll
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/net6.0/refint/DotNet.Docker.dll
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/net6.0/DotNet.Docker.pdb
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/net6.0/DotNet.Docker.genruntimeconfig.cache
+/mnt/c/Code/Learning/Docker/testApp1/App/obj/Debug/net6.0/ref/DotNet.Docker.dll
